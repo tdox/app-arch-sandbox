@@ -1,0 +1,13 @@
+*.o
+*.hi
+.*~
+*~
+*.hs_13.*
+.#*
+app
+client_session_key.aes
+dist
+keyFile
+proxy
+system
+Setup.hs
